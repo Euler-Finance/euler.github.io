@@ -1,0 +1,207 @@
+.home-bar{
+    height: 10%;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 4px 2px -4px gray;
+    position: fixed;
+    width: 100%;
+    margin-top: -1rem;
+}
+
+.flags{
+    height: 1.2rem;
+    width: 2.0rem;
+}
+
+.justify{
+    display: flex;
+    align-items: center;
+}
+
+.buttons{
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.now-button{
+    background-color: transparent;
+    border-color: rgb(0, 0, 0);
+    border-radius: 0.2rem;
+    border-width: 3px;
+    padding-left: 0.65rem;
+    padding-right: 0.65rem;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    margin-right: 1rem;
+}
+
+.simbol{
+    height: 2rem;
+    margin-left: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.margin-button{
+    margin-right: 2rem;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.container1-text{
+    align-self: center;
+    width: 47%;
+}
+
+.big-button{
+    background-color: transparent;
+    border-color: rgb(0, 0, 0);
+    border-radius: 0.2rem;
+    border-width: 3px;
+    padding-left: 0.65rem;
+    padding-right: 0.65rem;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    margin-top: 2rem;
+    margin-left: 1rem;
+    width: 30%;
+    font-size: 29px;
+}
+
+.container2{
+    margin-top: 8rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container2-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.container2-img{
+    width: 80%;
+    margin-top: 2rem;
+}
+
+.container2-button{
+    background-color: transparent;
+    border-color: rgb(0, 0, 0);
+    border-radius: 0.2rem;
+    border-width: 3px;
+    padding-left: 0.65rem;
+    padding-right: 0.65rem;
+    padding-top: 0.35rem;
+    padding-bottom: 0.35rem;
+    margin-top: 2rem;
+    width: 20rem;
+    font-size: 29px;
+}
+
+.container3-text{
+    align-self: center;
+    width: 40%;
+}
+
+.margin-container3{
+    margin-top: 6rem;
+}
+
+.padding-container5{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.purple{
+    background-color: rgba(118, 22, 192, 0.85);
+}
+
+.container5-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.small-text{
+    font-size: 30px;
+}
+
+.container7{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 6rem;
+    padding-bottom: 2rem;
+}
+
+.container7-text{
+    width: 80%;
+    text-justify: center;
+}
+
+.bank-image{
+    align-self: baseline;
+    margin-left: 4rem;
+    margin-top: 4rem;
+    width: 80rem;
+}
+
+.invest-image{
+    align-self: flex-end;
+    margin-right: 4rem;
+    width: 80rem;
+}
+
+.correct-button{
+    background-color: transparent;
+    border-color: rgb(0, 0, 0);
+    border-radius: 0.2rem;
+    border-width: 3px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 0.6rem;
+    padding-bottom: 0.6rem;
+    margin-top: 2rem;
+    width: auto;
+    font-size: 39px;
+}
+
+.light-purple{
+    background-color: rgba(118, 22, 192, 0.3);
+    border-radius: 2rem 2rem 0rem 0rem;
+}
+
+footer{
+    background-color: rgba(118, 22, 192, 0.9);
+}
+
+.footer-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.instagram-logo{
+    width: 5rem;
+}
+
+.footer-center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 20%;
+}
