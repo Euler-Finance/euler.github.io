@@ -1,10 +1,9 @@
 .home-bar{
-    height: 10%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
     background-color: rgb(255, 255, 255);
     box-shadow: 0 4px 2px -4px gray;
-    position: fixed;
     width: 100%;
-    margin-top: -1rem;
 }
 
 .flags{
@@ -20,6 +19,10 @@
 .buttons{
     background-color: transparent;
     border-color: transparent;
+}
+
+.container1-img{
+    height: 45rem;
 }
 
 .now-button{
@@ -50,6 +53,10 @@ header{
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+}
+
+.container-header{
+    
 }
 
 .container1{
